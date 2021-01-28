@@ -3,7 +3,7 @@ package variousproblem;
 import java.io.*;
 import java.util.*;
 
-public class SortingAge {
+public class SortingAge_10814 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

@@ -2,7 +2,7 @@ package variousproblem;
 
 import java.io.*;
 
-public class Sort2 {
+public class Sort2_2751 {
 	public static int[] sort;
 	public static int[] tmp;
 	public static void main(String[] args) throws IOException {
